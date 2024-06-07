@@ -1,0 +1,22 @@
+*.cr2
+Lecture Slides-20240316
+SfM/bunny.files
+SfM/bunny.psx
+SfM/background_removed.zip
+SfM/bunny_final.files
+SLS/3DVisionSFMSaipCanHasbay/Bre/TuWienBunny*.bre
+SfM/lens_corrected.zip
+SLS/aligned_bre_files_merged_remeshed.wrp
+SLS/aligned_bre_files_merged.wrp
+SLS/aligned_bre_files.wrp
+SLS/combined.wrp
+SLS/TuWienBunny012.wrp
+SfM/bunny_final.psx
+models/SLS/TuWienBunny012.wrp
+models/SLS/aligned_bre_files.wrp
+models/SLS/aligned_bre_files_merged.wrp
+models/SLS/aligned_bre_files_merged_remeshed.wrp
+SfM/sfm_final.psd
+SfM/photoshop_sfm_post_processing_steps.psd
+SLS/aligned_bre_files_merged_remeshed_decimated.obj
+SLS/aligned_bre_files_merged_remeshed.obj
