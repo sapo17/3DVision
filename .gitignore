@@ -20,3 +20,5 @@ SfM/sfm_final.psd
 SfM/photoshop_sfm_post_processing_steps.psd
 SLS/aligned_bre_files_merged_remeshed_decimated.obj
 SLS/aligned_bre_files_merged_remeshed.obj
+models/SLS/aligned_bre_files_merged_remeshed.obj
+models/SfM/bunny_ultra_high_depth_map_decimated_1mil.obj
